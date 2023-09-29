@@ -20,7 +20,7 @@ My name is Nnenna and I am an aspiring data analyst with a background in Psychol
 
 ### [Project 2: Bellabeat/Fitbit Smart Device Study](https://github.com/nthompson8/bellabeat_analysis)
 
-### Project 3:
+### Project 3: 8 Week SQL Challenge
 
 ### Project 4:
 
